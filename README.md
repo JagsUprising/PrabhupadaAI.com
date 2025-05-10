@@ -50,8 +50,6 @@ Keep up with the latest updates by visiting the releases page and notes:
 
 ---
 
-## ⭐ Star History
-
 <p align="center">
   <a href="https://trendshift.io/repositories/4685" target="_blank" style="padding: 10px;">
     <img src="https://trendshift.io/api/badge/repositories/4685" alt="JagsUprising%2FPrabhupadaAI | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/>
