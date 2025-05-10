@@ -2,9 +2,6 @@
   <a href="https://PrabhupadaAI.com">
     <img src="client/public/assets/logo.svg" height="256">
   </a>
-  <h1 align="center">
-    <a href="https://PrabhupadaAI.com">PrabhupadaAI</a>
-  </h1>
 </p>
 
 
