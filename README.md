@@ -8,7 +8,6 @@
 </p>
 
 
-
 # ✨ Features
 
 - 🖥️ **UI & Experience** inspired by ChatGPT
